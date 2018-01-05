@@ -6,8 +6,8 @@ Prepare the build system; run again to clean:
 `init.sh`
 
 Run vim from project root. Key bindings:
-<F4> compile
-<F5> run
+`<F4>` compile
+`<F5>` run
 
 ## Misc
 _ycm_extra_conf.py_ file used for YouCompleteMe configurations.
